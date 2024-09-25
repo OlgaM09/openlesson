@@ -1,0 +1,32 @@
+body{
+    background: rgb(238, 235, 228);
+}
+h1{
+    color:rgb(157, 106, 12);
+    font-size: 38px;
+}
+
+
+.mytext{
+    background: lightgoldenrodyellow;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    color: rgb(74, 206, 233);
+}
+
+nav{
+    background-color: #eee;
+    border: 1px solid rgb(60, 52, 52);
+}
+
+.pic1 {
+    width: 25%;
+    margin: 2%;
+    border-radius: 10px;
+}
