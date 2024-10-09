@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "MuseoSansCyrl_300_Italic";
+    src: url(../MuseoSansCyrillic/MuseoSansCyrl_300_Italic.otf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+a{
+    font-family: "MuseoSansCyrl_300_Italic"; 
+}
