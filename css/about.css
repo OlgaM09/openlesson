@@ -1,0 +1,84 @@
+.main{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.block1, .block2, .block3{
+    width: 1440px;
+    margin: 2% auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.block1_text, .block1_img{
+    width: 45%;
+    padding: 0% 5%;
+}
+
+.block1_text p{
+    margin-top: 5%;
+}
+
+footer{
+    width: 100%;
+}
+
+.footer_text{
+    width: 600%;
+    text-align: center;
+    margin: 0% auto;
+}
+
+.footer_text p{
+    margin: 2% 0%;
+}
+
+.buttons{
+    display: flex;
+    gap: 15%;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.buttons1{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    color: black;
+    padding: 5px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.buttons1:hover{
+    transition: all 0.2s ease-in-out;
+    background: black;
+    color: #FFFFFF;
+}
+
+.button2 {
+    background-color: #000000;
+    color: white;
+    padding: 5px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    }
+
+    .buttons2:hover{
+        transition: all 0.2s ease-in-out;
+        background: white;
+        color: #000000;
+    }
+
